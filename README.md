@@ -21,4 +21,6 @@ __todo__
 
 ~~write a program to change the pokemon that gets injected~~
 
-See about having the ereader inject the .ek3 directly into the save to avoid using mystery event
+~~See about having the ereader inject the .ek3 directly into the save to avoid using mystery event~~
+
+just make it work
