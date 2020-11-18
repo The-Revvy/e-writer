@@ -17,10 +17,8 @@ Revvy/57690/24422
 
 __todo__
 
-~~throw the script into a dotcode~~
+throw the script into a dotcode
 
-~~write a program to change the pokemon that gets injected~~
+write a program to change the pokemon that gets injected
 
-~~See about having the ereader inject the .ek3 directly into the save to avoid using mystery event~~
 
-just make it work
