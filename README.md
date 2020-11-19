@@ -3,6 +3,7 @@ An e-reader based .ek3 injector for Pokemon Ruby/Sapphire
 
 Inject one dotcode, speak to Norman, then repeat with the other dotcode
 
+```
 METAGROSS (shiny), 
 adamant, 
 lvl 100, 
@@ -12,6 +13,7 @@ no item,
 meteor mash/earthquake/rock slide/explosion, 
 all 32 ribbons, 
 Revvy/57690/24422
+```
 
 __todo__
 
