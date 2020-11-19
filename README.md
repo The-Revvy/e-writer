@@ -1,9 +1,7 @@
 # e-writer
 An e-reader based .ek3 injector for Pokemon Ruby/Sapphire
 
-inject ewriter.me3 into your savefile using mystery gift tool, then talk to norman. this will replace the first pokemon in your party with metagross.ek3.
-
-mystery gift tool: https://projectpokemon.org/home/forums/topic/39184-gen-iii-mystery-gift-tool-nintendo-events-wondercards-e-trainer-cards-and-e-berry-editor-and-more/
+Inject one dotcode, speak to Norman, then repeat with the other dotcode
 
 METAGROSS (shiny), 
 adamant, 
@@ -17,8 +15,21 @@ Revvy/57690/24422
 
 __todo__
 
-throw the script into a dotcode
+Throw the script into a *single* dotcode, as opposed to two
 
-write a program to change the pokemon that gets injected
+Create a program to change the pokemon that gets injected
 
+## How to build
+
+* Download [nedcmake](https://www.caitsith2.com/ereader/tools/nedcmake.rar) from [caitsith2.com E-Reader Development Tools](https://www.caitsith2.com/ereader/devtools.htm)
+
+To run in an emulator: generate `RAW`:
+```
+nedcmake.exe -i <card>.z80 -o us -type 1 -region 1 -raw
+```
+
+To run on real hardware: generate `BMP`:
+```
+nedcmake.exe -i <card>.z80 -o us -type 1 -region 1 -bmp
+```
 
