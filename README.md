@@ -1,7 +1,7 @@
 # e-writer
 An e-reader based .ek3 injector for Pokemon Ruby/Sapphire
 
-Inject one dotcode, speak to Norman, then repeat with the other dotcode
+Replaces the first pokemon in your party with the following:
 
 ```
 METAGROSS (shiny), 
@@ -17,7 +17,6 @@ Revvy/57690/24422
 
 __todo__
 
-Throw the script into a *single* dotcode, as opposed to two
 
 Create a program to change the pokemon that gets injected
 
