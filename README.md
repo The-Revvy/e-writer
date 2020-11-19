@@ -39,3 +39,6 @@ To run on real hardware: generate `BMP`:
 nedcmake.exe -i card.z80 -o us -type 1 -region 1 -bmp
 ```
 
+## Thanks
+
+[Hatschky, for their checksum calculation script](https://github.com/hatschky/pokecarde/blob/master/scripts/checksum.py)
