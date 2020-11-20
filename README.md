@@ -3,6 +3,10 @@ An e-reader based .ek3 injector for Pokemon Ruby/Sapphire
 
 Replaces the first Pokemon in your party with a user-generated .ek3.
 
+## Bugs?
+
+If your .ek3 does not work, email it to me at `revvy@revvy.xyz`. 
+
 ## Usage
 
 Generate a .ek3 file using [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/), rename it to `input.ek3`, and run `inject.py`.
