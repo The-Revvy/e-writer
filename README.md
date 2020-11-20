@@ -5,7 +5,7 @@ Replaces the first Pokemon in your party with a user-generated .ek3.
 
 ## Bugs?
 
-If your .ek3 does not work, email it to me at `revvy@revvy.xyz`. 
+If your .ek3 does not work, email it to me at `revvy@revvy.xyz`. Currently, [Space Center Deoxys](https://bulbapedia.bulbagarden.net/wiki/List_of_English_event_Pok%C3%A9mon_distributions_in_Generation_III#Space_Center_Deoxys) doesn't seem to work, however, [Doel Deoxys](https://bulbapedia.bulbagarden.net/wiki/List_of_English_event_Pok%C3%A9mon_distributions_in_Generation_III#Doel_Deoxys) does.
 
 ## Usage
 
